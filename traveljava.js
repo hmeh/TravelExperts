@@ -1,6 +1,3 @@
-function confirmButton(){
-    confirm("OK to confirm, Cancel to go back!"); 
-};
 
 
 // // geolocation
@@ -112,5 +109,14 @@ submitButton.addEventListener('click', function(event){
     }
 
 });
+
+
+// LOGO Animation
+
+
+
+
+
+
 
 

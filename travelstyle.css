@@ -51,6 +51,8 @@ table, td, th, td {
 
 }
 
+/* all images in website */
+
 img{
 	width: 450px;
 	height: 300px;
@@ -90,7 +92,7 @@ blockquote{
 
 
 
-/* java table  */
+/* java table -- doesnt work   */
 
 form{
 
@@ -137,7 +139,4 @@ background: linear-gradient(0deg, rgba(125,177,207,1) 0%, rgba(213,206,191,0.182
 
 }
 
-.descriptions {
-	color: blue;
-}
 
